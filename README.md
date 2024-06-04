@@ -20,7 +20,7 @@ SEARCH_ENGINE_ID:
 </script>
 <div class="gcse-search"></div>
 ```
-6. Copy the value after the "?cx=" in the first line and add it to the api.py file as a value for SEARCH_ENGINE_ID
+6. Copy the value after the "?cx=" in the first line and add it to the api.py file as a value for SEARCH_ENGINE_ID (in this case we would copy "mkdasjk1232sa"
 
 API_KEY:
 1. Go to https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
