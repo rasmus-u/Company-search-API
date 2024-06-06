@@ -1,10 +1,14 @@
 import requests as re
 import pandas as pd
 
+### Change the following values: ###
+
 API_KEY = ''
 SEARCH_ENGINE_ID = ''
 FILE_NAME = 'companies.xlsx'
 RESULTS_TO_RETURN = 3
+
+####################################
 
 params = {
     'key': API_KEY,
