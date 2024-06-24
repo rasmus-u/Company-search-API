@@ -1,3 +1,9 @@
+# What is this repo?
+
+Quick less than 50 lines long API tool for finding company websites based on the company name using Google search API. Takes a excel file containing a list of company names as an input and outputs excel file with 1-10 (can be chosen freely) top search result URLs for that company name.
+
+Useful for avoiding manual labor in market analysis.
+
 # How to use
 
 ## Clone the repository
